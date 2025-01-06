@@ -58,10 +58,6 @@ A simple, user-friendly interface built with **Tkinter**, enabling:
 
 ## How to Use
 
-### Prerequisites
-1. Python 3.x installed on your system.
-2. Required libraries: Install using `pip install -r requirements.txt`.
-
 ### Steps to Run
 1. Clone this repository:
    ```bash
@@ -97,9 +93,8 @@ A simple, user-friendly interface built with **Tkinter**, enabling:
 FraudTransactionDetection/
 ├── fraud_detection.py       # Main implementation script.
 ├── README.md                # Project documentation.
-├── requirements.txt         # Dependencies for the project.
-├── dataset/                 # Folder for datasets.
-└── results/                 # Output visualizations and logs.
+├── Block Diagram            # A General Representation of the project
+
 ```
 
 ---
@@ -118,5 +113,3 @@ FraudTransactionDetection/
 
 ---
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
