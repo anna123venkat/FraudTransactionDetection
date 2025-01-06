@@ -65,7 +65,7 @@ A simple, user-friendly interface built with **Tkinter**, enabling:
 ### Steps to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/anna123venkat/FraudTransactionDetection/blob/main/README.md
+   git clone https://github.com/anna123venkat/FraudTransactionDetection
    cd FraudTransactionDetection
    ```
 
