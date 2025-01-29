@@ -99,10 +99,21 @@ The dataset used for this project is the **Credit Card Fraud Detection Dataset**
 - Evaluate performance metrics like accuracy, precision, and recall through the logs and console output.  
 
 ## Results  
-- Distribution of Fraud vs. Non-Fraud Transactions  
-- Correlation Matrix Analysis  
-- Outlier Detection and Anomaly Visualization  
-- Classification Reports and Accuracy Metrics  
+
+### Distribution of Fraud vs. Non-Fraud Transactions  
+![Distribution of Fraud vs. Non-Fraud Transactions](Outputs/Distribution_of_Fraud_vs_Non-Fraud_Transactions.png)
+
+### Correlation Matrix Analysis
+![Correlation Matrix Analysis](Outputs/correlation_matrix.png)
+
+### Outlier Detection and Anomaly Visualization 
+![Outlier Detection and Anomaly Visulization](Outputs/Anomaly_Detection_Using_LOF.jpg)
+
+### Outlier Detection 
+![Outlier Detection](Outputs/PCA-Outlier_Detection.jpg)
+
+### Classification Reports and Accuracy Metrics
+![Classification Reports and Accuracy Metrics](Outputs/Classification_Report.png)  
 
 ## References  
 1. [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)  
@@ -113,6 +124,6 @@ The dataset used for this project is the **Credit Card Fraud Detection Dataset**
 ---
 
 **Contributors:**  
-- Hariharanvignesh K  
-- Prasanna Venkatesh S  
+- **[Hariharanvignesh K](https://github.com/vignesh5743)** 
+- **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
 - Sakthi Jeganathan R  
